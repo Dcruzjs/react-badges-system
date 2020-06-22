@@ -1,0 +1,20 @@
+{
+  "badges": [
+    {
+      "firstName": "Richard",
+      "lastName": "Kaufman",
+      "email": "richardbkaufman@gmail.com",
+      "jobTitle": "Frontend Engineer",
+      "twitter": "sparragus",
+      "id": "DbY1vXd"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Cruz",
+      "email": "dcruz.js@gmail.com",
+      "jobTitle": "WebDev",
+      "twitter": "dcruzjs",
+      "id": "pNfDfsv"
+    }
+  ]
+}
