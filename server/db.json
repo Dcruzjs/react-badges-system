@@ -1,18 +1,10 @@
 {
   "badges": [
     {
-      "firstName": "Richard",
-      "lastName": "Kaufman",
-      "email": "richardbkaufman@gmail.com",
-      "jobTitle": "Frontend Engineer",
-      "twitter": "sparragus",
-      "id": "DbY1vXd"
-    },
-    {
       "firstName": "Daniel",
       "lastName": "Cruz",
       "email": "dcruz.js@gmail.com",
-      "jobTitle": "WebDev",
+      "jobTitle": "http://dcruz.dev",
       "twitter": "dcruzjs",
       "id": "pNfDfsv"
     }

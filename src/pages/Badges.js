@@ -67,7 +67,7 @@ class Badges extends React.Component {
             </Link>
           </div>
 
-          <BadgesList badges={this.state.data.reverse()} />
+          <BadgesList badges={this.state.data} />
 
           {this.state.loading && <MiniLoader />}
         </div>
