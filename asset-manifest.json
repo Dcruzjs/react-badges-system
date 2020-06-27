@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-badges-system/static/css/main.bcd50d48.chunk.css",
-    "main.js": "/react-badges-system/static/js/main.652d4336.chunk.js",
-    "main.js.map": "/react-badges-system/static/js/main.652d4336.chunk.js.map",
+    "main.js": "/react-badges-system/static/js/main.0e052092.chunk.js",
+    "main.js.map": "/react-badges-system/static/js/main.0e052092.chunk.js.map",
     "runtime-main.js": "/react-badges-system/static/js/runtime-main.d7a16ec4.js",
     "runtime-main.js.map": "/react-badges-system/static/js/runtime-main.d7a16ec4.js.map",
     "static/css/2.85f22f3a.chunk.css": "/react-badges-system/static/css/2.85f22f3a.chunk.css",
     "static/js/2.8e8c1981.chunk.js": "/react-badges-system/static/js/2.8e8c1981.chunk.js",
     "static/js/2.8e8c1981.chunk.js.map": "/react-badges-system/static/js/2.8e8c1981.chunk.js.map",
     "index.html": "/react-badges-system/index.html",
-    "precache-manifest.3b5c87761c1b5c318cd2fd8045e32ef9.js": "/react-badges-system/precache-manifest.3b5c87761c1b5c318cd2fd8045e32ef9.js",
+    "precache-manifest.49f54f4baf2075b86826847346568bc7.js": "/react-badges-system/precache-manifest.49f54f4baf2075b86826847346568bc7.js",
     "service-worker.js": "/react-badges-system/service-worker.js",
     "static/css/2.85f22f3a.chunk.css.map": "/react-badges-system/static/css/2.85f22f3a.chunk.css.map",
     "static/css/main.bcd50d48.chunk.css.map": "/react-badges-system/static/css/main.bcd50d48.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.85f22f3a.chunk.css",
     "static/js/2.8e8c1981.chunk.js",
     "static/css/main.bcd50d48.chunk.css",
-    "static/js/main.652d4336.chunk.js"
+    "static/js/main.0e052092.chunk.js"
   ]
 }

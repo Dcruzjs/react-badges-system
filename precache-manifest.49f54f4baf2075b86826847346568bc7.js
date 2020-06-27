@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "872c183ad83c361bd51593c9894a7ee6",
+    "revision": "033723f8c3e9c849d67d05f668dad9c2",
     "url": "/react-badges-system/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-badges-system/static/css/2.85f22f3a.chunk.css"
   },
   {
-    "revision": "347a22462cdf5baafc14",
+    "revision": "bf05a58692cb48e3d86c",
     "url": "/react-badges-system/static/css/main.bcd50d48.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-badges-system/static/js/2.8e8c1981.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "347a22462cdf5baafc14",
-    "url": "/react-badges-system/static/js/main.652d4336.chunk.js"
+    "revision": "bf05a58692cb48e3d86c",
+    "url": "/react-badges-system/static/js/main.0e052092.chunk.js"
   },
   {
     "revision": "21e1a0c67bb1466b08b6",
