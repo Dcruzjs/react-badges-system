@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-badges-system/static/css/main.bcd50d48.chunk.css",
-    "main.js": "/react-badges-system/static/js/main.0e052092.chunk.js",
-    "main.js.map": "/react-badges-system/static/js/main.0e052092.chunk.js.map",
+    "main.js": "/react-badges-system/static/js/main.74c94fed.chunk.js",
+    "main.js.map": "/react-badges-system/static/js/main.74c94fed.chunk.js.map",
     "runtime-main.js": "/react-badges-system/static/js/runtime-main.d7a16ec4.js",
     "runtime-main.js.map": "/react-badges-system/static/js/runtime-main.d7a16ec4.js.map",
     "static/css/2.85f22f3a.chunk.css": "/react-badges-system/static/css/2.85f22f3a.chunk.css",
-    "static/js/2.8e8c1981.chunk.js": "/react-badges-system/static/js/2.8e8c1981.chunk.js",
-    "static/js/2.8e8c1981.chunk.js.map": "/react-badges-system/static/js/2.8e8c1981.chunk.js.map",
+    "static/js/2.de014641.chunk.js": "/react-badges-system/static/js/2.de014641.chunk.js",
+    "static/js/2.de014641.chunk.js.map": "/react-badges-system/static/js/2.de014641.chunk.js.map",
     "index.html": "/react-badges-system/index.html",
-    "precache-manifest.49f54f4baf2075b86826847346568bc7.js": "/react-badges-system/precache-manifest.49f54f4baf2075b86826847346568bc7.js",
+    "precache-manifest.2ca8330aa69b938edb79d1039078f0e7.js": "/react-badges-system/precache-manifest.2ca8330aa69b938edb79d1039078f0e7.js",
     "service-worker.js": "/react-badges-system/service-worker.js",
     "static/css/2.85f22f3a.chunk.css.map": "/react-badges-system/static/css/2.85f22f3a.chunk.css.map",
     "static/css/main.bcd50d48.chunk.css.map": "/react-badges-system/static/css/main.bcd50d48.chunk.css.map",
-    "static/js/2.8e8c1981.chunk.js.LICENSE.txt": "/react-badges-system/static/js/2.8e8c1981.chunk.js.LICENSE.txt",
+    "static/js/2.de014641.chunk.js.LICENSE.txt": "/react-badges-system/static/js/2.de014641.chunk.js.LICENSE.txt",
     "static/media/astronauts.svg": "/react-badges-system/static/media/astronauts.71addf45.svg",
     "static/media/badge-header.svg": "/react-badges-system/static/media/badge-header.973f5842.svg",
     "static/media/logo.svg": "/react-badges-system/static/media/logo.0026b862.svg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.d7a16ec4.js",
     "static/css/2.85f22f3a.chunk.css",
-    "static/js/2.8e8c1981.chunk.js",
+    "static/js/2.de014641.chunk.js",
     "static/css/main.bcd50d48.chunk.css",
-    "static/js/main.0e052092.chunk.js"
+    "static/js/main.74c94fed.chunk.js"
   ]
 }

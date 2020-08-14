@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "033723f8c3e9c849d67d05f668dad9c2",
+    "revision": "ab02213135feb92a7958f4e438298bd8",
     "url": "/react-badges-system/index.html"
   },
   {
-    "revision": "1639064076320160650a",
+    "revision": "e030bbd2c0133a59e14f",
     "url": "/react-badges-system/static/css/2.85f22f3a.chunk.css"
   },
   {
-    "revision": "bf05a58692cb48e3d86c",
+    "revision": "201078cf77b3f6079d0c",
     "url": "/react-badges-system/static/css/main.bcd50d48.chunk.css"
   },
   {
-    "revision": "1639064076320160650a",
-    "url": "/react-badges-system/static/js/2.8e8c1981.chunk.js"
+    "revision": "e030bbd2c0133a59e14f",
+    "url": "/react-badges-system/static/js/2.de014641.chunk.js"
   },
   {
     "revision": "707e6f0eb595080bc55d0bb4d5cad864",
-    "url": "/react-badges-system/static/js/2.8e8c1981.chunk.js.LICENSE.txt"
+    "url": "/react-badges-system/static/js/2.de014641.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf05a58692cb48e3d86c",
-    "url": "/react-badges-system/static/js/main.0e052092.chunk.js"
+    "revision": "201078cf77b3f6079d0c",
+    "url": "/react-badges-system/static/js/main.74c94fed.chunk.js"
   },
   {
     "revision": "21e1a0c67bb1466b08b6",
